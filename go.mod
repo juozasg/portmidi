@@ -1,3 +1,3 @@
-module github.com/rakyll/portmidi
+module github.com/juozasg/portmidi
 
 go 1.14
